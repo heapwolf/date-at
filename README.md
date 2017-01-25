@@ -1,6 +1,9 @@
 # SYNOPSIS
 Easily create relative dates.
 
+# BUILD
+[![Build Status](https://travis-ci.org/0x00A/date-at.svg?branch=master)](https://travis-ci.org/0x00A/date-at)
+
 # USAGE
 
 ```js
