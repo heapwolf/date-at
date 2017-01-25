@@ -1,0 +1,12 @@
+{
+  "name": "date-at",
+  "description": "easily create relative dates. ie: date('+1day')",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:0x00A/date-at.git",
+  "author": "0x00a <paolo@async.ly>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
